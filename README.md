@@ -1,1 +1,1 @@
-# simple Spring Boot MVC Thymeleaf project
+# Simple Spring Boot MVC Thymeleaf project
