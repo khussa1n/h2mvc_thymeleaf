@@ -1,1 +1,1 @@
-# h2mvc_thymeleaf
+# simple Spring Boot MVC Thymeleaf project
